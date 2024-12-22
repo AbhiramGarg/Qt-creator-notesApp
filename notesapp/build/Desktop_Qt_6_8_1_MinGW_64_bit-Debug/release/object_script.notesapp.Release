@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/noteslist_widget.o
+release/notesmanager.o
+release/noteswidget.o
+release/renamedialog.o
+release/xmlstorage.o
+release/qrc_resources.o
+release/moc_mainwindow.o
+release/moc_noteslist_widget.o
+release/moc_notesmanager.o
+release/moc_noteswidget.o
+release/moc_renamedialog.o

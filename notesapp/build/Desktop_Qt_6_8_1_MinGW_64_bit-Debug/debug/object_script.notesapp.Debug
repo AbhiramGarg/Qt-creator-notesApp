@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/noteslist_widget.o
+debug/notesmanager.o
+debug/noteswidget.o
+debug/renamedialog.o
+debug/xmlstorage.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_noteslist_widget.o
+debug/moc_notesmanager.o
+debug/moc_noteswidget.o
+debug/moc_renamedialog.o
